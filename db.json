@@ -178,69 +178,7 @@
                 }
             ],
             "doctor_comment": []
-        },
-        {
-            "id": 10,
-            "name": "White",
-            "surname": "Lopez",
-            "birthday": "1987-08-25",
-            "sex": "male",
-            "hometown": "Otasa, Canada",
-            "image":"https://images.unsplash.com/photo-1596075780750-81249df16d19?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80",
-            "vaccine": [{
-                "title": "Johnson & Johnson’s Janssen",
-                "short": "JJ",
-                "vaccinated_date": "2022-01-14"
-            }],
-            "doctor_comment": []
-        },
-        {
-            "id": 11,
-            "name": "Clay",
-            "surname": "Leon",
-            "birthday": "1983-12-05",
-            "sex": "male",
-            "hometown": "Bangkok, Thailand",
-            "image":"https://img.freepik.com/free-photo/business-finance-people-concept-enthusiastic-handsome-asian-male-office-worker-employee-with-teeth-braces-showing-thumbs-up-approval-recommend-company-guarantee-quality_1258-57160.jpg?size=626&ext=jpg&ga=GA1.2.630858756.1661328680",
-            "vaccine": [{
-                    "title": "Sinovac",
-                    "short": "SV",
-                    "vaccinated_date": "2022-02-17"
-                },
-                {
-                    "title": "Sinovac",
-                    "short": "SV",
-                    "vaccinated_date": "2022-03-6"
-                },
-                {
-                    "title": "Sinovac",
-                    "short": "SV",
-                    "vaccinated_date": "2022-05-1"
-                }
-            ],
-            "doctor_comment": [{
-                "comment_pic": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=400&q=80",
-                "comment_by": "Dr. Young",
-                "comment": "Proident occaecat anim dolore irure tempor irure nostrud amet cillum est excepteur irure veniam.",
-                "comment_date": "2021-04-03"
-            }]
-        },
-        {
-            "id": 12,
-            "name": "Valentine",
-            "surname": "Hammond",
-            "birthday": "1984-09-22",
-            "sex": "female",
-            "hometown": "LA, US",
-            "image":"https://img.freepik.com/premium-photo/closeup-fashion-woman-portrait-young-pretty-fashionable-girl-background-house_502065-280.jpg?size=626&ext=jpg&ga=GA1.2.630858756.1661328680",
-            "vaccine": [
-                {
-                    "title": "Johnson & Johnson’s Janssen",
-                    "short": "JJ",
-                    "vaccinated_date": "2022-02-16"
-                }
-            ],
-            "doctor_comment": []
         }
+        
     ]
 }
